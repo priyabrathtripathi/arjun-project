@@ -10,6 +10,6 @@ int main(){
     scanf("%d",&num);
     fact=factorial(num);
     printf("factorial of %d is=%1d",num,fact);
-    printf("\n");
+    cout<<endl;
     return 0;
 }
